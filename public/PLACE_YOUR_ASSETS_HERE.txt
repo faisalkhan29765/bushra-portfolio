@@ -1,0 +1,11 @@
+This folder needs two files added by you before the site is 100% complete:
+
+1. profile.jpg  — your profile photo (square-ish works best for the hex frame)
+2. resume.pdf   — your resume, used for both the embedded viewer and the
+                  "Download Resume" button in the Resume section
+
+Just drop both files directly into this /public folder, keeping these exact
+filenames (or update the paths in src/data/profile.json if you'd rather use
+different names).
+
+Delete this .txt file once you've added your real assets.

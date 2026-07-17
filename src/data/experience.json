@@ -1,0 +1,47 @@
+[
+  {
+    "id": "exp-1",
+    "type": "education",
+    "title": "B.Tech in Electrical Engineering",
+    "org": "Aligarh Muslim University",
+    "period": "2023 — 2027 (Expected)",
+    "description": "Pursuing a Bachelor's degree in Electrical Engineering with a focus on Power Systems, Electrical Machines, Renewable Energy, and Smart Grid Technologies.",
+    "meta": "CGPA: 7.89 / 10"
+  },
+  {
+    "id": "exp-2",
+    "type": "work",
+    "title": "Industrial Trainee",
+    "org": "Harduaganj Thermal Power Station (UPRVUNL)",
+    "period": "June 2025 — July 2025",
+    "description": "Completed industrial training with practical exposure to thermal power generation, electrical machines, switchyard operations, transformers, generators, and plant maintenance.",
+    "meta": "Industrial Training"
+  },
+  {
+    "id": "exp-3",
+    "type": "work",
+    "title": "Energy Management Intern",
+    "org": "GreenGenius Enviro Solutions",
+    "period": "February 2025 — March 2025",
+    "description": "Worked on energy management practices and studied renewable energy integration in the Oil & Gas industry, focusing on sustainable energy solutions.",
+    "meta": "Internship"
+  },
+  {
+    "id": "exp-4",
+    "type": "work",
+    "title": "Industrial Training",
+    "org": "3 MW Solar Power Plant",
+    "period": "January 2026 — February 2026",
+    "description": "Studied the operation of a 3 MW Solar Power Plant, including photovoltaic power generation, grid integration, monitoring systems, and energy transmission.",
+    "meta": "Industrial Training"
+  },
+  {
+    "id": "exp-5",
+    "type": "activity",
+    "title": "Public Relations Team Member",
+    "org": "IEEE Student Branch, Aligarh Muslim University",
+    "period": "2026 — Present",
+    "description": "Actively contribute to organizing technical workshops, seminars, and student engagement activities while supporting promotional and public relations initiatives.",
+    "meta": "Leadership & Volunteering"
+  }
+]

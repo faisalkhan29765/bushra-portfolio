@@ -1,0 +1,48 @@
+[
+   {
+    "id": "thermal-power-plant-study",
+    "title": "Thermal Power Plant Operation & Electrical Systems Study",
+    "tagline": "Industrial study of power generation and electrical equipment at Harduaganj Thermal Power Station",
+    "description": "Conducted an industrial study at Harduaganj Thermal Power Station (UPRVUNL), gaining practical knowledge of thermal power generation, transformers, generators, switchyard operations, electrical protection systems, and plant maintenance procedures.",
+    "tags": [
+      "Power Systems",
+      "Electrical Machines",
+      "Power Generation",
+      "Industrial Training"
+    ],
+    "role": "Industrial Trainee",
+    "year": "2025",
+    "links": {
+      "github": "",
+      "demo": ""
+    },
+    "highlights": [
+      "Studied the complete thermal power generation cycle.",
+      "Observed the operation of generators, transformers, and switchyard equipment.",
+      "Learned industrial safety practices and preventive maintenance procedures."
+    ]
+  },
+  {
+    "id": "renewable-energy-management",
+    "title": "Renewable Energy & Solar Power System Analysis",
+    "tagline": "Industrial training focused on renewable energy integration and solar power generation",
+    "description": "Worked on understanding renewable energy integration through GreenGenius Enviro Solutions and studied the operation of a 3 MW Solar Power Plant, including photovoltaic systems, grid integration, energy management, and power transmission.",
+    "tags": [
+      "Renewable Energy",
+      "Solar Energy",
+      "Energy Management",
+      "Power Systems"
+    ],
+    "role": "Industrial Trainee",
+    "year": "2025",
+    "links": {
+      "github": "",
+      "demo": ""
+    },
+    "highlights": [
+      "Studied photovoltaic power generation and grid integration.",
+      "Learned industrial energy management practices.",
+      "Analyzed renewable energy applications in modern power systems."
+    ]
+  }
+]

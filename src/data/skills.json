@@ -1,0 +1,58 @@
+{
+  "categories": [
+    {
+      "name": "Electrical Engineering",
+      "items": [
+        { "name": "Power Systems", "level": 85 },
+        { "name": "Electrical Machines", "level": 80 },
+        { "name": "Renewable Energy", "level": 85 },
+        { "name": "Power Generation", "level": 80 }
+      ]
+    },
+    {
+      "name": "Software & Programming",
+      "items": [
+        { "name": "MATLAB", "level": 75 },
+        { "name": "Python", "level": 70 },
+        { "name": "Simulink", "level": 70 },
+        { "name": "LabVIEW", "level": 65 }
+      ]
+    },
+    {
+      "name": "Industrial Knowledge",
+      "items": [
+        { "name": "Energy Management", "level": 85 },
+        { "name": "Solar Power Systems", "level": 85 },
+        { "name": "Thermal Power Plants", "level": 80 },
+        { "name": "Electrical Safety", "level": 80 }
+      ]
+    },
+    {
+      "name": "Professional Skills",
+      "items": [
+        { "name": "Microsoft Office", "level": 90 },
+        { "name": "Technical Documentation", "level": 85 },
+        { "name": "Problem Solving", "level": 85 },
+        { "name": "Teamwork & Communication", "level": 90 }
+      ]
+    }
+  ],
+  "chips": [
+    "Power Systems",
+    "Electrical Machines",
+    "Renewable Energy",
+    "Energy Management",
+    "Solar Energy",
+    "Thermal Power Plant",
+    "MATLAB",
+    "Simulink",
+    "Python",
+    "LabVIEW",
+    "Microsoft Office",
+    "Technical Documentation",
+    "Problem Solving",
+    "Teamwork",
+    "Electrical Safety",
+    "Industrial Training"
+  ]
+}
