@@ -1,47 +1,68 @@
 [
   {
-    "id": "exp-1",
-    "type": "education",
-    "title": "B.Tech in Electrical Engineering",
-    "org": "Aligarh Muslim University",
-    "period": "2023 — 2027 (Expected)",
-    "description": "Pursuing a Bachelor's degree in Electrical Engineering with a focus on Power Systems, Electrical Machines, Renewable Energy, and Smart Grid Technologies.",
-    "meta": "CGPA: 7.89 / 10"
+    "title": "BE in Electrical Engineering",
+    "company": "Zakir Husain College of Engineering & Technology, Aligarh Muslim University",
+    "period": "2023 – 2027",
+    "description": "Pursuing Bachelor of ENGINEERING in Electrical Engineering with a strong interest in Power Systems, Renewable Energy, Electrical Machines, and Smart Grid Technologies.",
+    "highlights": [
+      "CGPA: 7.89",
+      "Coursework in Power Systems, Electrical Machines and Renewable Energy.",
+      "Active participant in technical and academic activities."
+    ]
   },
   {
-    "id": "exp-2",
-    "type": "work",
+    "title": "Summer Trainee",
+    "company": "Dawakhana Tibbiya College, AMU Aligarh",
+    "period": "Jul 2025 – Aug 2025",
+    "description": "Completed summer training on Switchgears and Protection, gaining practical exposure to electrical protection systems, switchgear equipment, and electrical safety practices.",
+    "highlights": [
+      "Studied switchgear components and protection systems.",
+      "Learned electrical safety procedures and maintenance practices.",
+      "Observed electrical distribution and protection equipment."
+    ]
+  },
+  {
     "title": "Industrial Trainee",
-    "org": "Harduaganj Thermal Power Station (UPRVUNL)",
-    "period": "June 2025 — July 2025",
-    "description": "Completed industrial training with practical exposure to thermal power generation, electrical machines, switchyard operations, transformers, generators, and plant maintenance.",
-    "meta": "Industrial Training"
+    "company": "Harduaganj Thermal Power Station (UPRVUNL)",
+    "period": "Jun 2025 – Jul 2025",
+    "description": "Received industrial training on thermal power generation, generators, transformers, switchyard equipment, and plant operations.",
+    "highlights": [
+      "Studied the thermal power generation cycle.",
+      "Observed generator, transformer and switchyard operations.",
+      "Learned preventive maintenance and industrial safety."
+    ]
   },
   {
-    "id": "exp-3",
-    "type": "work",
     "title": "Energy Management Intern",
-    "org": "GreenGenius Enviro Solutions",
-    "period": "February 2025 — March 2025",
-    "description": "Worked on energy management practices and studied renewable energy integration in the Oil & Gas industry, focusing on sustainable energy solutions.",
-    "meta": "Internship"
+    "company": "GreenGenius Enviro Solutions",
+    "period": "2025",
+    "description": "Worked on renewable energy concepts, energy management practices, and sustainable electrical systems.",
+    "highlights": [
+      "Studied renewable energy applications.",
+      "Learned energy auditing and management concepts.",
+      "Explored sustainable electrical solutions."
+    ]
   },
   {
-    "id": "exp-4",
-    "type": "work",
     "title": "Industrial Training",
-    "org": "3 MW Solar Power Plant",
-    "period": "January 2026 — February 2026",
-    "description": "Studied the operation of a 3 MW Solar Power Plant, including photovoltaic power generation, grid integration, monitoring systems, and energy transmission.",
-    "meta": "Industrial Training"
+    "company": "3 MW Solar Power Plant",
+    "period": "2025",
+    "description": "Gained practical exposure to photovoltaic systems, solar power generation, grid integration, and plant operation.",
+    "highlights": [
+      "Studied photovoltaic power generation.",
+      "Observed solar plant operation and maintenance.",
+      "Learned grid integration of renewable energy systems."
+    ]
   },
   {
-    "id": "exp-5",
-    "type": "activity",
     "title": "Public Relations Team Member",
-    "org": "IEEE Student Branch, Aligarh Muslim University",
-    "period": "2026 — Present",
-    "description": "Actively contribute to organizing technical workshops, seminars, and student engagement activities while supporting promotional and public relations initiatives.",
-    "meta": "Leadership & Volunteering"
+    "company": "IEEE Student Branch, AMU",
+    "period": "2025 – Present",
+    "description": "Contributing to the planning and promotion of technical events, workshops, and student engagement activities.",
+    "highlights": [
+      "Coordinated technical events and workshops.",
+      "Managed communication and promotional activities.",
+      "Worked collaboratively with student volunteers."
+    ]
   }
 ]
